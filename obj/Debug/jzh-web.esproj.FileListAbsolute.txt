@@ -1,1 +1,2 @@
 D:\Work\gitRepos\jzh-web\jzh-web\obj\Debug\jzh-web.esproj.CoreCompileInputs.cache
+D:\Work\gitRepos\jzh-web-test\jzh-web\obj\Debug\jzh-web.esproj.CoreCompileInputs.cache

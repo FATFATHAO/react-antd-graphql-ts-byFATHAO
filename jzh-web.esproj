@@ -11,9 +11,9 @@
   <ItemGroup>
     <Folder Include="src\pages\Layout\" />
     <Folder Include="src\pages\less\Reg-Log\" />
-    <Folder Include="src\pages\Regesiter\" />
     <Folder Include="src\pages\Login\" />
     <Folder Include="src\pages\About\" />
     <Folder Include="src\router\" />
+    <Folder Include="src\GraphQl\" />
   </ItemGroup>
 </Project>
